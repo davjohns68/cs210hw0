@@ -5,7 +5,7 @@
         <data xmlns="http://www.netbeans.org/ns/j2se-project/3">
             <name>HW0</name>
             <source-roots>
-                <root id="src.dir"/>
+                <root id="src.HW0.dir"/>
             </source-roots>
             <test-roots/>
         </data>
